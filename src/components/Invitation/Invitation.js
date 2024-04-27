@@ -35,7 +35,7 @@ const Invitation = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        Dear Macha,<br />
+        Dear Macha😎,<br />
         Nuvu kshemam ani bhavisthu rasthunna lekha...🙂 Nenu ninnu eno sarlu ahvanincha kani, nuvu nanu grahincha ledhu kabatti ippudu neku ardham ayela rasthunna...
         "Ne raka kosam 1000 kallu tho edhuru chusthunna...🤪"<br />
         @Bangaru Konda😉
